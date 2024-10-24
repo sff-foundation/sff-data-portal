@@ -1,5 +1,5 @@
 # add the following to _config.yml file
-title: Steans Test Site
+title: Steans Family Foundation - Data Portal
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
